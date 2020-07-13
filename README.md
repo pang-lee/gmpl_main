@@ -1,5 +1,3 @@
-Gmpl_server
-=======
 # gmpl_main
 
 > A gmpl web app
